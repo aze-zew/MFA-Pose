@@ -5,7 +5,8 @@ Feature Fusion and Attention Mechanisms*
 
 ## Introduction
 
-This repository contains the implementation for the work presented in *Your Paper Title Here*.
+This repository contains the implementation for the work presented in *Enhancing Human Pose Estimation via Multi-Scale
+Feature Fusion and Attention Mechanisms*.
 
 The **training pipeline, model architectures, and evaluation protocols** of this project are **fully consistent with** [MMPose](https://github.com/open-mmlab/mmpose), the open-source toolbox for pose estimation based on PyTorch.
 
