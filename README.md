@@ -23,6 +23,7 @@ mim install "mmdet>=3.0.0"  # Required for top-down models
 git clone https://github.com/open-mmlab/mmpose.git
 cd mmpose
 pip install -e .
+```
 
 ## Data Download
 
