@@ -1,13 +1,13 @@
 # MFA-Pose
-# [Your Project Name]
 
-**Related Paper:** *Your Paper Title Here* [[arXiv Link/DOI]](https://example.com)
+*Enhancing Human Pose Estimation via Multi-Scale
+Feature Fusion and Attention Mechanisms*
 
-## 📖 Introduction
+## Introduction
 
 This repository contains the implementation for the work presented in *Your Paper Title Here*.
 
-The **training pipeline, model architectures, and evaluation protocols** of this project are **fully consistent with** [MMPose](https://github.com/open-mmlab/mmpose), the open-source toolbox for pose estimation based on PyTorch[citation:4][citation:6].
+The **training pipeline, model architectures, and evaluation protocols** of this project are **fully consistent with** [MMPose](https://github.com/open-mmlab/mmpose), the open-source toolbox for pose estimation based on PyTorch.
 
 ## 🛠️ Installation & Quick Start
 
